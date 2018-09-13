@@ -1,12 +1,12 @@
 ---
 date: '2017-06-01'
-title: 'Featured Project Two'
+title: 'Ride Share'
 cover: './budapest.jpg'
 github: 'https://github.com/barakadacres'
 external: 'https://barakadev.com/'
 tech:
   - React
-  - Webpack
+  - Swift
   - Firebase
 ---
 
